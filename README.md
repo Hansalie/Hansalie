@@ -6,8 +6,8 @@
 </h1>        
 <h3 align="center">Machine Learning Enthusiast</h3>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pavith19&label=Profile%20Views&color=0e75b6&style=flat" alt="pavith19" />&nbsp;
-    <img alt="Stars" src="https://img.shields.io/github/stars/Pavith19?style=flat-square&label=Stars&labelColor=343b41"/>
+    <img src="https://komarev.com/ghpvc/?username=Hansalie&label=Profile%20Views&color=0e75b6&style=flat" alt="Hansalie" />&nbsp;
+    <img alt="Stars" src="https://img.shields.io/github/stars/Hansalie?style=flat-square&label=Stars&labelColor=343b41"/>
 </p>
 
 <table align="center">
