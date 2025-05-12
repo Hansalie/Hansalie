@@ -45,49 +45,10 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Projects
-
-### CeyLand - Blockchain-Based Land Document Management System | Sep 2024 - March 2025
-- Team leader for a decentralized platform revolutionizing deed management in Sri Lanka using blockchain technology
-- Features secure deed uploads with immutable storage and NFT-based ownership transfers
-- **Tech Stack:** React.js | Express.js | MongoDB | AWS S3 | IPFS | Solidity | Polygon Amoy Testnet
-
-### Titanic Survival Prediction | Kaggle Competition | April 2025
-- Developed a logistic regression model achieving 77.03% accuracy on the Kaggle public leaderboard
-- Handled missing values, performed feature engineering, categorical encoding, and feature scaling
-- Evaluated model using confusion matrix and ROC AUC (AUC ≈ 0.88)
-- **Tech Stack:** Python | pandas | NumPy | scikit-learn | Matplotlib | Logistic Regression
-
-### London House Price Prediction | Kaggle Competition | April 2025
-- Built a linear regression model ranking 95th out of 225 participants
-- Cleaned data, handled outliers, applied log transformations, and used robust scaling
-- Achieved a validation R² score of 0.638 on unseen data
-- **Tech Stack:** Python | pandas | NumPy | scikit-learn | Matplotlib | Linear Regression
-
-### Podcast Listening Time Prediction | April 2025
-- Developed a k-Nearest Neighbors (kNN) regression model to predict podcast listening time
-- Optimized hyperparameters using GridSearchCV with 5-fold cross-validation
-- Achieved R² score of 0.7421 with MSE of 189.93
-- **Tech Stack:** Python | pandas | NumPy | scikit-learn | Matplotlib | kNN | GridSearchCV
-
-### Real-Time Ticketing System | Dec 2024
-- Developed a multi-threaded Java application simulating real-time ticket distribution
-- Implemented concurrency control with locks, semaphores, and synchronized collections
-- **Tech Stack:** Java | MySQL | multi-threading | OOP
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 Achievements
 - Completed the Foundation Certificate in Higher Education - IT at IIT with a distinction
 - Top 5 projects from Foundation category at IIT Cutting-Edge annual exhibition (2023)
 - Participated in global hackathons (IEEEXtreme 17.0 & 18.0 & Xtreme Encode)
-
-## 📜 Certifications
-- Python for Data Science, AI & Development – IBM
-- Supervised Machine Learning: Regression and Classification – DeepLearning.AI
-- Professional Certificate in Machine Learning – IIT PDU
-- Professional Certificate in Java Programming – IIT PDU
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
