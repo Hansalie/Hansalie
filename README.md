@@ -103,7 +103,6 @@
   <a href="https://linkedin.com/in/hansalie-mataraarachchi-b683b7293/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansalie-mataraarachchi" height="25" width="35" /></a>
   <a href="https://www.hackerrank.com/@hansalie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hansalie" height="40" width="45" /></a>
   <a href="mailto:hansaliemataraarachchi@gmail.com" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="hansaliemataraarachchi@gmail.com" height="30" width="40" /></a>
-  <a href="https://hansalie.lk" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" alt="website" height="30" width="40" /></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
