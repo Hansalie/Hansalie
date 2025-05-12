@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently focusing on **Machine Learning** and **Data Science**
 
-- 👨‍💻 View my portfolio at [hansalie.lk](https://hansalie.lk)
+- 👨‍💻 View my portfolio at [hansalie.lk](https://hansalie.netlify.app/)
 
 - 💬 Ask me about **Python, Java, Machine Learning, and Data Structures**
 
