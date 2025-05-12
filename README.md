@@ -119,21 +119,17 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/>&nbsp;&nbsp;
-  <br>
-  <br>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="visual-paradigm" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="eclipse" width="50" height="50"/>
+  <br>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="90" height="50"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google colab" width="50" height="50"/>&nbsp;&nbsp;
 </p>
 
 <!--horizontal divider(gradiant)-->
